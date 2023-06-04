@@ -12,5 +12,7 @@ This constitutes available resources to learn LORA/QLORA for LLM.I am learning m
   - [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/pdf/2208.07339.pdf)
 - Github Repository
   - [TLoen Github Repo](https://github.com/tloen/alpaca-lora)
+- Python Notebook
+  - [BitsAndBytes-4bit-Training](https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing)
 
 
