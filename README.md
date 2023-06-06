@@ -24,6 +24,7 @@ This repository contains implementations and experiments related to Large Langua
 - [LORA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - [QLORA: Quantized LLMs with Low-Rank Adapters](https://arxiv.org/abs/2305.14314)
 - [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/pdf/2208.07339.pdf)
+- [SpQR: A Sparse-Quantized Representation for Near-Lossless LLM Weight Compression](https://arxiv.org/abs/2306.03078)
 
 ### 🐙 GitHub Repositories
 
