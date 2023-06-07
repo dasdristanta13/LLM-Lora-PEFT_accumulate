@@ -1,0 +1,23 @@
+{
+  "name": "LLM-Lora-PEFT_accumulate",
+  "version": "1.0.0",
+  "description": "Exploring optimizations for Large Language Models (LLMs) using PEFT, LORA, and QLORA.",
+  "main": "index.js",
+  "author": "Dristanta Das",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/LLM-Lora-PEFT_accumulate.git"
+  },
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "LLMs",
+    "PEFT",
+    "LORA",
+    "QLORA",
+    "optimization",
+    "language models"
+  ]
+}
