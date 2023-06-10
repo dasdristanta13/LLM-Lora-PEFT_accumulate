@@ -4,6 +4,16 @@ Welcome to the **LLM-Lora-PEFT_accumulate** repository!
 
 This repository contains implementations and experiments related to Large Language Models (LLMs) using **PEFT** (Parameter Efficient Fine Tuning), **LORA** (Low-Rank Adaptation of Large Language Models), and **QLORA** (Quantized LLMs with Low-Rank Adapters).
 
+## Loading a model in 8-bit precision can save up to 4x memory compared to full precision model
+![image](https://github.com/dasdristanta13/LLM-Lora-PEFT_accumulate/assets/70366198/d0e01c4a-da9d-46d9-9107-19d2865f8ec9)
+
+## What does PEFT do?
+You easily add adapters on a frozen 8-bit model thus reducing the memory requirements of the optimizer states, by training a small fraction of parameters
+
+![image](https://github.com/dasdristanta13/LLM-Lora-PEFT_accumulate/assets/70366198/4869b64a-294c-4a23-8623-b17ee63a9f31)
+
+
+
 ## Resources
 
 ### 🌐 Websites
@@ -12,6 +22,7 @@ This repository contains implementations and experiments related to Large Langua
 - [🤗 PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware](https://huggingface.co/blog/peft)
 - [LLM.int8() and Emergent Features](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)
 - [Tensorfloat-32-precision-format](https://blogs.nvidia.com/blog/2020/05/14/tensorfloat-32-precision-format/)
+- [RLHF-LLM](https://huggingface.co/blog/trl-peft)
 
 ### 📺 YouTube Videos
 
