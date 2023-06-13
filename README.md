@@ -45,6 +45,10 @@ You easily add adapters on a frozen 8-bit model thus reducing the memory require
 
 - [BitsAndBytes-4bit-Training](https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing)
 
+## SWOT of LLMs
+
+![image](https://github.com/dasdristanta13/LLM-Lora-PEFT_accumulate/assets/70366198/18d3dc4a-499a-4cb1-a0c5-7b49fd0f2289)
+
 ## Contributing
 
 We welcome contributions from researchers, developers, and enthusiasts. Feel free to share your experiments, optimizations, or new methods related to LLMs, PEFT, LORA, or QLORA.
