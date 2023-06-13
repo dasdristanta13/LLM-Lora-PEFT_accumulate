@@ -48,6 +48,7 @@ You easily add adapters on a frozen 8-bit model thus reducing the memory require
 ## SWOT of LLMs
 
 [![image](https://github.com/dasdristanta13/LLM-Lora-PEFT_accumulate/assets/70366198/18d3dc4a-499a-4cb1-a0c5-7b49fd0f2289)](SWOT.md)
+Go to [LLM Analysis with SWOT](SWOT.md) for more clarification.
 
 ## Contributing
 
