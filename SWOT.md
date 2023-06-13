@@ -1,5 +1,7 @@
 # LLM Analysis: Strengths, Weaknesses, Opportunities, and Threats
 
+![image](https://github.com/dasdristanta13/LLM-Lora-PEFT_accumulate/assets/70366198/18d3dc4a-499a-4cb1-a0c5-7b49fd0f2289)
+
 ## Strengths
 - **Existing default base knowledge**: LLMs have a broad knowledge base and can answer a wide range of questions effectively.
 - **Blending**: LLMs can blend different types of knowledge, allowing for unique capabilities like explaining complex concepts in a specific style.
