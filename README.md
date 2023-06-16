@@ -23,6 +23,7 @@ You easily add adapters on a frozen 8-bit model thus reducing the memory require
 - [LLM.int8() and Emergent Features](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)
 - [Tensorfloat-32-precision-format](https://blogs.nvidia.com/blog/2020/05/14/tensorfloat-32-precision-format/)
 - [RLHF-LLM](https://huggingface.co/blog/trl-peft)
+- [Finetuning Falcon LLMs More Efficiently With LoRA and Adapters by Sebastian Raschka](https://lightning.ai/pages/community/finetuning-falcon-efficiently/)
 
 ### 📺 YouTube Videos
 
