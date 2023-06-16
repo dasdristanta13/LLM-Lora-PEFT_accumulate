@@ -49,33 +49,3 @@ You easily add adapters on a frozen 8-bit model thus reducing the memory require
 
 [![image](https://github.com/dasdristanta13/LLM-Lora-PEFT_accumulate/assets/70366198/18d3dc4a-499a-4cb1-a0c5-7b49fd0f2289)](SWOT.md)
 Go to [LLM Analysis with SWOT](SWOT.md) for more clarification.
-
-## Contributing
-
-We welcome contributions from researchers, developers, and enthusiasts. Feel free to share your experiments, optimizations, or new methods related to LLMs, PEFT, LORA, or QLORA.
-
-To contribute, follow these steps:
-1. Fork the repository and create a new branch for your work.
-2. Implement your experiments or improvements.
-3. Provide clear documentation and code explanations.
-4. Test your implementation thoroughly.
-5. Submit a pull request, explaining the purpose of your contribution.
-
-Please respect the existing codebase's license and any third-party dependencies.
-
-## Discussion
-
-Join our discussions to exchange ideas, share experiences, and explore research directions. Here are some suggested topics:
-- Comparing the performance and efficiency trade-offs of PEFT, LORA, and QLORA.
-- Optimizing LLMs for specific NLP tasks.
-- Further improving the efficiency of LLMs.
-
-Remember to be respectful and considerate when engaging in discussions.
-
-## Code of Conduct
-
-Please adhere to our code of conduct, ensuring a positive and inclusive environment for all contributors and participants.
-
-We look forward to your contributions and fruitful discussions!
-
-Happy coding! 🚀
